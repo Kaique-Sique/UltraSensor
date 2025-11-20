@@ -8,7 +8,7 @@ This file will shows everthing you need know about the ultrasonic sensor, it's i
 >
 >  * This component use a input of 3.3V, if you wire it in a pin with a diferent voltage, The ultrasonic won't work and long-term it's can damage the component.
 >
->  * So Take care with this.
+>  * **So take care with this.**
 
 >[!IMPORTANT]
 > Arduino Conections:
@@ -22,5 +22,7 @@ This file will shows everthing you need know about the ultrasonic sensor, it's i
 ---
 
 # 💼 How it's work ⚙️
+Ultrasonic sensors works by emitting high-frequency sound waves and measuring the time it takes for the sound to bounce off an object and return to the sensor. This "time-of-flight" can be used to estimate de distance from object.
 
+![how-ultrasonic-sensor-works-01](https://github.com/user-attachments/assets/5f535e98-159d-479d-a028-3bc6862d84af)
 
