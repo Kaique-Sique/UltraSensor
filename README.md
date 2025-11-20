@@ -14,7 +14,7 @@ Welcome to the official repository for the **UltraSensor library** by BB-8 SESI 
 
 | # | Topic | Subject | 
 | :---: | :--- | :--- |
-| **1** | [UltraSound Sensor Overview](https://github.com/BB-8-SESI409/PIDCmd/blob/main/PIDOverview.md) |Understand the theory of who this system it's work|
+| **1** | [UltraSound Sensor Overview](https://github.com/Kaique-Sique/UltraSensor/blob/main/UltrasonicSensor.md) |Understand the theory of who this system it's work|
 | **2** | [Library Overview](https://github.com/BB-8-SESI409/PIDCmd/blob/main/PIDCmd.h) |library link to include on the project folder|
 | **3** | [UltraSensor.h](https://github.com/BB-8-SESI409/PIDCmd/blob/main/LibraryCmds.md) |Understand the commands and functions|
 
