@@ -1,19 +1,25 @@
 ###########################################
-# Syntax Coloring Map For PIDCmd
+# Syntax Coloring Map For UltraSensor
 ###########################################
 
 ###########################################
 # Datatypes (KEYWORD1)
 ###########################################
 
-PIDCmd	KEYWORD1
+UltraSensor	KEYWORD1
 
 ###########################################
 # Methods and Functions (KEYWORD2)
 ###########################################
 
 
-setTolerance	KEYWORD2
-isInSetpoint	KEYWORD2
-PIDCalc		KEYWORD2
-reset	KEYWORD2
+begin	KEYWORD2
+update	KEYWORD2
+
+
+###########################################
+# variables (KEYWORD3)
+###########################################
+
+triggerPin		KEYWORD3
+echoPin KEYWORD3
