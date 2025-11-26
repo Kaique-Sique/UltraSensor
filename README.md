@@ -6,7 +6,7 @@ Welcome to the official repository for the **UltraSensor library** by BB-8 SESI 
 
 
 # ⚡Importing library on Arduino IDE
-* [Download](https://github.com/user-attachments/files/23661180/PIDCmd.zip) UltraSensor.h
+* Download UltraSensor.h
 * Open the files of your project.
 * copy this library file there.
   
